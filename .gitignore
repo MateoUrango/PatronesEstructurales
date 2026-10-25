@@ -1,0 +1,53 @@
+# Archivos compilados
+*.class
+
+# Archivos de log
+*.log
+
+# Paquetes y empaquetados
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Carpetas de compilación
+bin/
+out/
+target/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+nbproject/private/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# Visual Studio Code
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales
+*.tmp
+*.swp
+*~
+
+# Crash logs de la JVM
+hs_err_pid*
+replay_pid*
